@@ -1,6 +1,6 @@
 {
   "name": "okgoogle",
-  "version": "1.1.2",
+  "version": "1.1.1",
   "description": "command to open a google research in your default browser",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
