@@ -1,0 +1,22 @@
+{
+  "name": "okgoogle",
+  "version": "1.1.2",
+  "description": "command to open a google research in your default browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "okgoogle",
+    "search"
+  ],
+  "author": "volokasse",
+  "license": "ISC",
+  "preferGlobal": true,
+  "dependencies": {
+    "open": "0.0.5"
+  },
+  "bin": {
+    "okgoogle": "index.js"
+  }
+}
